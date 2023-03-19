@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+
+.test{
+    display: flex;
+}
+.box{
+    width: 50px;
+    height: 50px;
+    background-color:green ;
+    text-align: center;
+    margin: 0 auto;
+    padding: 50px;
+    border-radius: 15px;
+    box-shadow: 12px 12px 2px 1px hsla(151, 100%, 50%, .2);;
+    
+}
+.box:hover{
+    background-color: brown;
+}
+
+p.house1{
+    background-color: antiquewhite;
+    width: 50px;
+    height: 50px;
+    margin: 15px auto;
+    text-align: center;
+    
+}
+p.house2{
+    background-color: azure;
+    width: 50px;
+    height: 50px;
+    margin: 2px 100px;
+}
