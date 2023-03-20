@@ -13,11 +13,12 @@ body{
     margin: 0 auto;
     padding: 50px;
     border-radius: 15px;
-    box-shadow: 12px 12px 2px 1px hsla(151, 100%, 50%, .2);;
+    box-shadow: 12px 12px 20px 1px hsla(151, 100%, 50%, .3);;
     
 }
 .box:hover{
-    background-color: brown;
+    background-color: green;
+    box-shadow: 12px 12px 2px 3px hsla(151, 100%, 50%, .1);;
 }
 
 p.house1{
